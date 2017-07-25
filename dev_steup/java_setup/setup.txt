@@ -1,0 +1,57 @@
+-----------
+Rquired s/w
+-----------
+1. Java [ 1.8.0_131 ]
+2. Eclipse [ Oxygen ]
+3. Tomcate Server [ apache tomcat 8.5.16 ]
+4. MySql Database [ mysql  Ver 14.14 Distrib 5.7.19 ]
+5. Git [ git version 2.7.4 ]
+6. Google Chrome [ Latest ]
+------------------------------------------------------
+Links to download required software from ( Windows )
+------------------------------------------------------
+Java - > https://www.java.com
+Eclipse -> http://www.eclipse.org/downloads/
+Apache -> https://tomcat.apache.org/download-80.cgi#8.5.16
+MySql - > https://dev.mysql.com/downloads/windows/
+Git -> https://git-scm.com/download/win
+Google chrome -> https://www.google.com/chrome/browser/desktop/index.html
+--------------------
+Installation process
+--------------------
+1. Java
+-------
+For Windows
+
+For Linux ( Ubuntu )
+----------
+2. Eclipse
+----------
+For Windows
+
+For Linux ( Ubuntu )
+----------------
+3. Tomcat Server
+----------------
+For Windows
+
+For Linux ( Ubuntu )
+--------
+4. MySql
+--------
+For Windows
+
+For Linux ( Ubuntu )
+------
+5. Git
+------
+For Windows
+
+For Linux ( Ubuntu )
+----------------
+6. Google Chrome
+----------------
+For Windows
+
+For Linux ( Ubuntu )
+                                                                                                                             1,1           Top
